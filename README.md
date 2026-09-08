@@ -1,3 +1,4 @@
+![logo](https://github.com/yeganehrezzd/yeganehrezzd/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Yeganeh</h1>
 <h3 align="center">Learning, Building & Growing in Front-End Development 🌱</h3>
 <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width="350">
